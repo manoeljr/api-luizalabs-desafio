@@ -1,4 +1,6 @@
-#### Tecnologias Envolvidas
+# Tecnologias
+ 
+ 
  - Django
  - DjangoRestFrameWork
  - Docker
