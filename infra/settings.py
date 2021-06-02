@@ -58,9 +58,9 @@ WSGI_APPLICATION = 'infra.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'luizalabs',
-        'USER': 'postgres',
-        'PASSWORD': 'docker',
+        'NAME': 'nome_da_base_de_dados',
+        'USER': 'usuario_do_banco_de_dados',
+        'PASSWORD': 'password_do_banco_de_dados',
         'HOST': 'localhost',
         'PORT': '5432',
     }
